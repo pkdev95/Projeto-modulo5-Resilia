@@ -12,6 +12,11 @@ O código:
 ![Screenshot](img/codigo.png)
 
 
+A saída no console:
+
+![Screenshot](img/console.png)
+
+
 
 
 
