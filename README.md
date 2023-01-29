@@ -7,3 +7,7 @@ essa lista ordenada de A-Z. Ordenar o CSS ajuda a encontrar mais rápido a
 propriedade que precisamos alterar.
 
 
+O código:
+
+
+
