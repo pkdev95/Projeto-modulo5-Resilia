@@ -9,7 +9,7 @@ propriedade que precisamos alterar.
 
 O código:
 
-![Screenshot](img/codigo.png)
+![Screenshot](img/cdg.png)
 
 
 A saída no console:
